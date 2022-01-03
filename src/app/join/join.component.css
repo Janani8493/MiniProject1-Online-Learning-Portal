@@ -1,0 +1,22 @@
+.join 
+{
+    background-image:url('img8.jpg');
+    width: 100%;
+    height: 600px;
+    padding: 140px 100px;
+}
+.login
+{
+    background-color: #ffffff;
+    padding: 20px 30px;
+}
+
+@media screen and (max-width:600px)
+{
+
+    .join
+{
+    padding: 140px 30px;
+}
+
+}

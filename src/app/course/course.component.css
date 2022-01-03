@@ -1,0 +1,23 @@
+.course
+{
+    background-image:url('img8.jpg');
+    padding: 50px 100px;
+}
+.box
+{ 
+    color:black;
+    background-color:white;
+    padding: 10px 20px;
+}
+.container
+{
+    color:white;
+}
+@media screen and (max-width:600px)
+{
+    .course
+{
+    background-color: #eff6ff;
+    padding: 50px 10px;
+}
+}
